@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">IndicApp</string>
+    <string name="string_no_recipe_found">No Recipe</string>
 </resources>
