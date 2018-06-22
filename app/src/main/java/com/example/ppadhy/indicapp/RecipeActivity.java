@@ -12,7 +12,7 @@ import com.example.ppadhy.indicapp.model.Recipe;
 
 public class RecipeActivity extends AppCompatActivity {
 
-    private static final String KEY_ID = "id";
+    public static final String KEY_ID = "id";
     private TextView title;
     private TextView description;
 
